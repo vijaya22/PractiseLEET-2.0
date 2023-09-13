@@ -1,4 +1,4 @@
-/** K Empty Slots */
+/** 683. K Empty Slots */
 /**
  * 
  * You have n bulbs in a row numbered from 1 to n.
