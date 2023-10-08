@@ -13,7 +13,7 @@
  * Output: 2
  *
  * Constraints:
- * 1 <= a.length, b.length <= 104
+ * 1 <= a.length, b.length <=  104
  * a and b consist of lowercase English letters.
  */
 /**
