@@ -67,7 +67,7 @@ function maximumSlidingWindow (nums, k) {
         const j = i +1 - k;
         if(j>=0){
             res.push(dq[0]);
-            if(nums[i] == dq[0]) dq.shift();
+            if(nums[j] == dq[0]) dq.shift();
         }
     }
     return res;
